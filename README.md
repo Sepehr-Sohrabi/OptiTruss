@@ -1,6 +1,9 @@
 # ⚙️ 120-Bar Truss Optimization
 
-This project tackles a well-known and challenging problem in **structural optimization**: the **120-bar truss**. The primary goal is to **minimize the total weight** of the structure while satisfying mechanical and geometric constraints.  
+This project tackles a well-known and challenging problem in **structural optimization**: the **120-bar truss**. The primary goal is to **minimize the total weight** of the structure while satisfying mechanical and geometric constraints.
+
+P.S. OptiTruss is a little project of mine and I don't care what you guys will use it for and how you'll use it. So enjoy and have fun!
+Sepehr Sohrabi
 
 ---
 
@@ -60,3 +63,7 @@ This project tackles a well-known and challenging problem in **structural optimi
 - Performance comparison of GA, PSO, and DE  
 - Analysis of loading effects on the solution  
 - Convergence plots and numerical results  
+
+---
+
+For additional information please contact via E-mail: sepehrsohrabi47@gmail.com / sepehr_sohrabi@iust.ac.ir
