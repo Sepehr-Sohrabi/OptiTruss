@@ -63,7 +63,7 @@ Sepehr Sohrabi
 - Performance comparison of GA, PSO, and DE  
 - Analysis of loading effects on the solution  
 - Convergence plots and numerical results  
-
+Update 
 ---
 
-For additional information please contact via E-mail: sepehrsohrabi47@gmail.com / sepehr_sohrabi@iust.ac.ir
+For additional information please contact me via E-mail: sepehrsohrabi47@gmail.com / sepehr_sohrabi@iust.ac.ir
