@@ -1,0 +1,6 @@
+(aco-env) sepehr@sepehr-HP-Laptop:~/VS Code$ "/home/sepehr/VS Code/aco-env/bin/python" "/home/sepehr/VS Code/Project/E- C- GA_LoadSet2.py"
+
+✅ Max Load per Node = 6880 N ≈ 701.33 kg
+✅ Total Max Load = 254560 N ≈ 25949.03 kg
+(aco-env) sepehr@sepehr-HP-Laptop:~/VS Code$ 
+
